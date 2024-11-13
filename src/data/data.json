@@ -1,1 +1,28 @@
-{"nombre":"Alejandro","apellido":"Perez","edad":33}
+[
+    {
+        "id": 5,
+        "nombre": "Jose",
+        "apellido": "Perez",
+        "edad": 40
+    },
+    {
+        "id": 3,
+        "nombre": "Carla",
+        "apellido": "Perez",
+        "edad": 23
+    },
+    {
+        "id": 7,
+        "nombre": "Pedro",
+        "apellido": "Perez",
+        "edad": 30,
+        "ocupacion": "Programador"
+    },
+    {
+        "id": 7,
+        "nombre": "El Pato ",
+        "apellido": "Perez",
+        "edad": 30,
+        "ocupacion": "Programador"
+    }
+]
